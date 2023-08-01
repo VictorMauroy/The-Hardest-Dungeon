@@ -1,0 +1,4 @@
+repository "The Hardest Dungeon@VictorMauroy@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlimeEyesMat 1
+  m_Shader: {fileID: -6465566751694194690, guid: 81ba03bd62b323d4c9f0ea8a0be5e91f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_ea93800bc53a4baa8e15f9083682b45a:
+        m_Texture: {fileID: 2800000, guid: ab536c1d6a182854fbaa86379f7b407e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_d1ae1a0a50ef44d79d252d46bc1bec0d: 1
+    m_Colors:
+    - Color_9a1a23c492e14128b7f34dddc04cc10e: {r: 0, g: 0, b: 0, a: 1}
+    - Color_e1c170262a904234b9a8a825224fe5e1: {r: 0, g: 0, b: 0.015686275, a: 1}
+    - Vector2_16f6d3cc520d413593786640208395b1: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_2b618cabd86440ef950ba56800577dd0: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_465a59a87e2a4dd7a3866cf08fd0e5a2: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
