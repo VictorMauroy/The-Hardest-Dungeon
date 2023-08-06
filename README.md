@@ -17,10 +17,35 @@ En cours de développement sur Unity 3D. Ce jeu n'est actuellement pas télécha
 
 ## **Galerie d'images**
 
-<img src="git_resources/HardestDungeon_Projection.gif" width="300" height="190" alt="Enemy control gif" />
-<img src="git_resources/hardestDungeon_huntsystem.gif" width="300" height="190" alt="Hunt system gif" />
-<img src="git_resources/hardestDungeon_jumpOnEnemies.gif" width="300" height="190" alt="Fight gif" />
-<img src="git_resources/HardestDungeon_AvoidEnemies.gif" width="300" height="190" alt="Enemy patterns gif" />
-<img src="git_resources/HardestDungeon_control.gif" width="300" height="190" alt="Control selection gif" />
-<img src="git_resources/HardestDungeon_Dash.gif" width="300" height="190" alt="Jump and Dash gif" />
-<img src="git_resources/HardestDungeon_DashOnEnemy.gif" width="300" height="190" alt="Dash on enemy gif" />
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/HardestDungeon_Projection.gif"  alt="Enemy control gif" />
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/hardestDungeon_huntsystem.gif"  alt="Hunt system gif" />
+    </div>
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/hardestDungeon_jumpOnEnemies.gif" width="300" height="190" alt="Fight gif" />
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/HardestDungeon_AvoidEnemies.gif" width="300" height="190" alt="Enemy patterns gif" />
+    </div>
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/HardestDungeon_control.gif" width="300" height="190" alt="Control selection gif" />
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/HardestDungeon_Dash.gif" width="300" height="190" alt="Jump and Dash gif" />
+    </div>
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="git_resources/HardestDungeon_DashOnEnemy.gif" width="300" height="190" alt="Dash on enemy gif" />
+    </div>
+</div>
