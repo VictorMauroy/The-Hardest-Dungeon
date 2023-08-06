@@ -17,10 +17,10 @@ En cours de développement sur Unity 3D. Ce jeu n'est actuellement pas télécha
 
 ## **Galerie d'images**
 
-<img src="git_resources/HardestDungeon_Projection.gif" width="320" height="200" alt="Enemy control gif" />
-<img src="git_resources/hardestDungeon_huntsystem.gif" width="320" height="200" alt="Hunt system gif" />
-<img src="git_resources/hardestDungeon_jumpOnEnemies.gif" width="320" height="200" alt="Fight gif" />
-<img src="git_resources/HardestDungeon_AvoidEnemies.gif" width="320" height="200" alt="Enemy patterns gif" />
-<img src="git_resources/HardestDungeon_control.gif" width="320" height="200" alt="Control selection gif" />
-<img src="git_resources/HardestDungeon_Dash.gif" width="320" height="200" alt="Jump and Dash gif" />
-<img src="git_resources/HardestDungeon_DashOnEnemy.gif" width="320" height="200" alt="Dash on enemy gif" />
+<img src="git_resources/HardestDungeon_Projection.gif" width="300" height="190" alt="Enemy control gif" />
+<img src="git_resources/hardestDungeon_huntsystem.gif" width="300" height="190" alt="Hunt system gif" />
+<img src="git_resources/hardestDungeon_jumpOnEnemies.gif" width="300" height="190" alt="Fight gif" />
+<img src="git_resources/HardestDungeon_AvoidEnemies.gif" width="300" height="190" alt="Enemy patterns gif" />
+<img src="git_resources/HardestDungeon_control.gif" width="300" height="190" alt="Control selection gif" />
+<img src="git_resources/HardestDungeon_Dash.gif" width="300" height="190" alt="Jump and Dash gif" />
+<img src="git_resources/HardestDungeon_DashOnEnemy.gif" width="300" height="190" alt="Dash on enemy gif" />
